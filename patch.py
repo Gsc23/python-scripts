@@ -3,7 +3,7 @@ import time
 
 BATCH_SIZE = 20 
 headers = {
-    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTE2MzQ1MzgsImlzcyI6ImRpZ2l0YWwtcmJhYyIsInN1YiI6Im9pbHNwaWxsLWRldiJ9.xQZsn_a1k6a1lo3mBuV48_5a3JKhC0UoGDdTW-hYVr0",
+    "Authorization": "",
     "Content-Type": "application/json"
 }
 
